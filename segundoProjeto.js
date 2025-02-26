@@ -42,4 +42,5 @@ else if(vitoriasEDerrotas < 90){
 
 else if(vitoriasEDerrotas <= 100 ){
 	console.log("O Herói tem saldo de " + vitoriasEDerrotas + " vitórias e está no nível de Imortal");
-}
+}  
+
